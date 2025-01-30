@@ -1,27 +1,19 @@
 ---
-title: "Frank Hermosillo"
-image: "frank.jpg"
+title: "Frida Galán Hernández"
+image: "Frida.jpeg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/frigalan07"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:fridagh@lcg.unam.mx"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+I am an undergraduate student in Genomic Sciences <a href="https://www.lcg.unam.mx"><span style="color:  #FFB6C1;"> **Licenciatura en Ciencias Genómicas**</span></a>, currently in my 4th semester. I have a strong interest in plant molecular biology, particularly in how plants sense oxygen. I am also a member of Dr. Luis Cardenas' research group at the Biotechnology Institute.
+
 
 ## Education
 
